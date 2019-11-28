@@ -6,7 +6,7 @@ For this project I have followed MST algorithm which requires a weighted graph a
 
 The basic approach is as follows:
 1. Find the Minimum Spanning Tree(MST).
-2. Traverse the edges in a depth-rst fashion.
+2. Traverse the edges in a depth-first fashion.
 3. When going up the tree, skip an already visited vertex and add a shortcut to the next unvisited one.
 
 ## Compiling and running the code
